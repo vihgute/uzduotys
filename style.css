@@ -1,0 +1,31 @@
+h1{
+    background: #f5f5f5 ; 
+}
+body{
+    justify-content: center; 
+    padding: 20px;
+    background-color: rgba(251, 250, 252, 0.953);
+}
+.header{
+    flex-direction: row;
+    color:rgb(8, 8, 8); 
+   }
+.container { 
+    border-bottom: 1px solid yellow;
+    padding: box-shadow 0px 0px 2px 2px rgb(74, 74, 83);
+    size: 1px;
+  }  
+.ikonos{ 
+    justify-content: space-between;
+    flex-direction: row ;
+}
+.blue {   
+    color: blue;
+}
+h2 {   
+    text-align: center;
+}
+.pirmas-tekstas{
+    size: 15px;
+}
+  
